@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<meta charset="utf-8">
-		<title>Awesome Theme</title>
+		<title>WPPC Theme</title>
 		<?php wp_head(); ?>
 	</head>
 	
